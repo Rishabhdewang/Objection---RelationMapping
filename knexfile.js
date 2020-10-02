@@ -8,7 +8,7 @@ module.exports = {
       host : "localhost",
       database : "objdb",
       user : "postgres",
-      password : "8085"
+      password : "1234"
     }
   },
 }
